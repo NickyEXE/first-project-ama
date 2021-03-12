@@ -3,7 +3,7 @@
 ### GitHub
 
 - The first thing you should do when you start a new project is `git init` and set up a repo.
-- Commit often (every 4-7 lines). In addition to being how you save your project and set yourself up to be able to revert your changes, employers look at how many times you commit.
+- Commit often (every 3-7 lines). In addition to being how you save your project and set yourself up to be able to revert your changes, employers look at how many times you commit.
 - Please do not decide "I'll figure out how to get this on GitHub later."
 
 ### MVP (Minimum Viable Product)
